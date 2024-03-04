@@ -371,8 +371,23 @@
 .footer-colums ul a {
     font-size: 14px;
 }
-    
+
+
+.t--content p {
+    width: 130%;
 }
+
+/* .t--content > p span {
+    font-size: 20px;
+}
+
+.t--content > button {
+    width: 50%;
+} */
+}
+
+
+    
 
 
 
